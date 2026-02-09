@@ -1,4 +1,4 @@
-**# Object-Oriented Programming (OOP)
+# Object-Oriented Programming (OOP)
 
 This folder covers **Object-Oriented Programming concepts in Python**.
 OOP helps organize code using classes and objects and makes programs
