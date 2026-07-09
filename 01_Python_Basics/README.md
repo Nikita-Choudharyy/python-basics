@@ -2,74 +2,130 @@
 
 Welcome to the **Python Basics** section of this repository.
 
-This section is designed to build a strong foundation in Python programming by covering the core concepts every beginner should learn before moving on to advanced topics such as Object-Oriented Programming, File Handling, Data Analysis, and Machine Learning.
-
-Each notebook focuses on a **single concept**, providing clear explanations, practical examples, hands-on exercises, and mini challenges without unnecessary repetition.
+This module is designed for complete beginners who are starting their Python programming journey. It covers the fundamental concepts of Python through well-structured Jupyter notebooks and clean, executable Python scripts.
 
 ---
 
-## 📚 Topics Covered
+## 📚 Learning Objectives
 
-* 📖 Introduction to Python
-* 🖨️ Print Statements & User Input
-* 💬 Comments
-* 📦 Variables
-* 📊 Data Types
-* 🔄 Type Casting
+After completing this module, you will be able to:
 
----
-
-## 🎯 Learning Objectives
-
-After completing this section, you will be able to:
-
-* Understand the fundamentals of Python programming.
-* Write simple Python programs with confidence.
-* Work with variables and different data types.
-* Perform type conversion using built-in functions.
-* Take user input and display formatted output.
-* Follow Python coding best practices.
+- Understand what Python is and why it is widely used.
+- Write and execute your first Python program.
+- Use the `print()` and `input()` functions.
+- Write meaningful comments and docstrings.
+- Create and work with variables.
+- Understand Python's built-in data types.
+- Perform implicit and explicit type casting.
 
 ---
 
-## 📂 Notebook Structure
+## 📂 Folder Structure
 
-| Notebook                   | Description                                                                      |
-| -------------------------- | -------------------------------------------------------------------------------- |
-| `01_Introduction.ipynb`    | Introduction to Python, features, applications, installation, and first program. |
-| `02_Print_and_Input.ipynb` | Learn how to display output and accept user input.                               |
-| `03_Comments.ipynb`        | Understand single-line comments, multi-line comments, and docstrings.            |
-| `04_Variables.ipynb`       | Learn how to create, name, and use variables effectively.                        |
-| `05_Data_Types.ipynb`      | Explore Python's built-in data types and type checking.                          |
-| `06_Type_Casting.ipynb`    | Learn implicit and explicit type conversion in Python.                           |
+```
+01_Python_Basics/
+│
+├── README.md
+│
+├── notebooks/
+│   ├── 01_Introduction.ipynb
+│   ├── 02_Print_and_Input.ipynb
+│   ├── 03_Comments.ipynb
+│   ├── 04_Variables.ipynb
+│   ├── 05_Data_Types.ipynb
+│   └── 06_Type_Casting.ipynb
+│
+└── source_code/
+    ├── 01_Introduction.py
+    ├── 02_Print_and_Input.py
+    ├── 03_Comments.py
+    ├── 04_Variables.py
+    ├── 05_Data_Types.py
+    └── 06_Type_Casting.py
+```
 
 ---
 
-## ✨ Learning Approach
+## 📖 Topics Covered
 
-Each notebook follows a consistent structure to make learning simple and organized:
+| No. | Topic | Description |
+|:---:|--------|-------------|
+| 01 | Introduction | Introduction to Python and writing your first program |
+| 02 | Print and Input | Displaying output and taking user input |
+| 03 | Comments | Single-line comments, docstrings, and best practices |
+| 04 | Variables | Creating, naming, updating, and using variables |
+| 05 | Data Types | Python's built-in data types and type checking |
+| 06 | Type Casting | Implicit and explicit type conversion |
 
-* 📖 Introduction
-* 🎯 Learning Objectives
-* 🧠 Concept Explanation
-* 💻 Practical Examples
-* ⚠️ Common Mistakes
-* 💡 Best Practices
-* 📝 Practice Questions
-* 💻 Hands-on Exercises
-* 🧩 Mini Challenge
-* 📚 Summary
-* 🚀 Next Topic
+---
+
+## 📓 Notebooks
+
+The **notebooks** folder contains detailed explanations, examples, outputs, and practice exercises.
+
+These notebooks are recommended if you are learning Python for the first time.
+
+---
+
+## 💻 Source Code
+
+The **source_code** folder contains clean and executable Python scripts for every topic.
+
+These files are useful for:
+
+- Quick revision
+- Running examples in VS Code
+- Understanding clean Python syntax
+- Practicing without notebook cells
+
+---
+
+## 🚀 Recommended Learning Order
+
+Follow the topics in the given order:
+
+1. Introduction
+2. Print and Input
+3. Comments
+4. Variables
+5. Data Types
+6. Type Casting
+
+Each topic builds upon the previous one.
+
+---
+
+## 🎯 Prerequisites
+
+No prior programming knowledge is required.
+
+You only need:
+
+- Python 3.x
+- VS Code or any Python IDE
+- Curiosity to learn 😊
+
+---
+
+## ⭐ Best Way to Learn
+
+For each topic:
+
+1. Read the notebook carefully.
+2. Run every code cell.
+3. Understand the output.
+4. Complete the mini practice.
+5. Run the corresponding `.py` file.
+6. Modify the code and experiment on your own.
 
 ---
 
 ## 🚀 What's Next?
 
-Once you've completed the Python Basics section, continue with:
+After completing this section, continue with:
 
 **📂 02_Operators**
 
-You'll learn how to perform arithmetic operations, compare values, write logical expressions, and work with Python operators effectively.
+You'll learn how to perform arithmetic operations, compare values, work with logical expressions, and understand Python operators through practical examples.
 
-Happy Coding! 🚀
-
+Happy Learning! 🚀
