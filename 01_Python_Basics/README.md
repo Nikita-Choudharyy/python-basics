@@ -1,6 +1,6 @@
 # 🐍 Python Basics
 
-Welcome to the **Python Basics** section of this repository.
+### Welcome to the **Python Basics** section of this repository.
 
 This module is designed for complete beginners who are starting their Python programming journey. It covers the fundamental concepts of Python through well-structured Jupyter notebooks and clean, executable Python scripts.
 
