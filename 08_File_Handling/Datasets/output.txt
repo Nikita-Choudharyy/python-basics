@@ -1,0 +1,4 @@
+Welcome to Python.
+Learning File Handling.
+This file was created using write().
+This line was added using append mode.

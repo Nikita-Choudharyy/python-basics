@@ -1,0 +1,12 @@
+Sample Configuration File
+
+[Application] name = Python File Handling Demo version = 1.0.0 debug =
+True
+
+[Database] host = localhost port = 3306 username = admin password =
+admin123
+
+[Paths] input_folder = Datasets/ output_folder = Output/ log_file =
+logs/app.log
+
+[Settings] theme = light language = en auto_save = True

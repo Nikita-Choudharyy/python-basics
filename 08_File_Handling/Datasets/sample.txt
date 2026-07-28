@@ -1,0 +1,11 @@
+Sample Text File
+
+This is a sample text file for practicing Python File Handling.
+
+Topics you can practice: 1. Reading an entire file 2. Reading line by
+line 3. Counting words and characters 4. Searching for specific text 5.
+Copying file contents 6. Appending new lines
+
+Python is simple. Python is powerful. Practice makes perfect!
+
+Happy Coding!
